@@ -5,3 +5,6 @@ The _vhdl\_rx_ folder contains a tried-and-tested high performance CSI-2 receive
 The _verilog\_cores_ contains work-in-progress CSI-2 transmit and receive cores in Verilog. These are designed to be more flexible and run on a variety of platforms. The first target will be 640x480 video using a Raspberry Pi camera with an iCE40 FPGA.
 
 All cores are licensed under the MIT License, see LICENSE for details.
+
+
+http://www.eevblog.com/forum/microcontrollers/open-source-csi-2-rx-core-for-xilinx-fpgas/
